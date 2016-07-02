@@ -2,7 +2,7 @@
   "name": "leanmodal_xl",
   "version": "0.5.0",
   "authors": [
-    "Richard Peck <support@frontlineutilities.co.uk)"
+    "Richard Peck <rpeck@frontlineutilities.co.uk)"
   ],
   "description": "Extended \"LeanModal\" modal pop-over for web apps - includes Ajax, on-demand functionality & more",
   "main": "leanmodal_xl.js",
@@ -18,7 +18,7 @@
     "rails"
   ],
   "license": "MIT",
-  "homepage": "http://frontlineutilities.co.uk",
+  "homepage": "http://www.frontlineutilities.co.uk",
   "ignore": [
     "**/.*",
     "node_modules",
